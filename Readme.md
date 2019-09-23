@@ -50,6 +50,6 @@ TPS handle
 
 #### 추가설명
 테스트 실행 : `pytest`  
-제공된 통계 데이터는 root에 stat_data.csv로 존재하고, device 테이블 데이터는 device_data.csv입니다.
-빌드 및 실행 그리고 테스트 실행은 root에서 kakaopay_assignment라는 디렉토리로 들어가서 하시면 됩니다.
+제공된 통계 데이터는 root에 stat_data.csv로 존재하고, device 테이블 데이터는 device_data.csv입니다.  
+빌드 및 실행 그리고 테스트 실행은 root에서 kakaopay_assignment라는 디렉토리로 들어가서 하시면 됩니다.  
 감사합니다.
